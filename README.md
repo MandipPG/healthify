@@ -1,3 +1,5 @@
+# Healthify
+
 # Slot Finder for the given week configuration
 
 ### Requirements
@@ -26,4 +28,4 @@ $ export PYTHONPATH="$PYTHONPATH:." # . corresponds to current directory(project
 $ python -m unittest discover -s 'tests' -p '*.py'
 ```
 
-Note: Input parameters can be changed under `tests/test_sf.py` file.# healthify
+Note: Input parameters can be changed under `tests/test_sf.py` file.
